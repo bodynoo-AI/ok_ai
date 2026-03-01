@@ -1,0 +1,7 @@
+{
+  "name": "Agrotech - Smart Farming for India",
+  "description": "A comprehensive agriculture technology platform for Indian farmers featuring AI crop advice, soil testing, market trends, and government schemes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
